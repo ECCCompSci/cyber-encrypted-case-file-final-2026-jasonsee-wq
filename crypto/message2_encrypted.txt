@@ -11,6 +11,11 @@ XCCP XJJ RCLCRJC YJJKCP GFZ.
 
 --- END ENCRYPTED MESSAGE ---
 
+PLAINTEXT:
+UPDATE: YOU HAVE MY THANKS FOR THE BACKUP RECORDS.
+THE SECOND HALF OF YOUR PAY WILL CUT SIDE OFF.
+KEEP ALL PEOPLE SILENT OUT.
+
 NOTES FOR ANALYST:
 - This message uses a different cipher than Message #1.
 - The sender appears to have used a keyword-based approach.

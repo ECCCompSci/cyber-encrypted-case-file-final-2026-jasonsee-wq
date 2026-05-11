@@ -11,6 +11,11 @@ GR QRW FRQWDFW PH XQWLO WKHQ.
 
 --- END ENCRYPTED MESSAGE ---
 
+PLAINTEXT:
+THE FILES ARE HIDDEN IN THE SERVER BACKUP FOLDER.
+MEET AT MIDNIGHT. BRING THE DRIVE.
+DO NOT CONTACT ME UNTIL THEN.
+
 NOTES FOR ANALYST:
 - This message was found unencrypted on the outside but the content itself is enciphered.
 - Consider classic substitution methods used before modern computers.
